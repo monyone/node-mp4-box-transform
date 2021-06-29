@@ -1,5 +1,5 @@
 {
-  "name": "@monyone/mp4-box-transfomer",
+  "name": "@monyone/mp4-box-transform",
   "version": "0.0.1",
   "main": "dist/index.js",
   "types": "d.ts/index.d.ts",
@@ -10,13 +10,13 @@
     "tsconfig.json"
   ],
   "author": "monyone <monyone.teihen@gmail.com>",
-  "description": "a simple mp4 box transfomer",
+  "description": "a simple mp4 box transform",
   "keywords": [
     "mp4"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/monyone/node-mp4-box-transformer"
+    "url": "https://github.com/monyone/node-mp4-box-transform"
   },
   "license": "MIT",
   "engines": {
