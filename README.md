@@ -1,22 +1,22 @@
-# node-arib-mpeg2ts-parser
+# node-mp4-box-transform
 
-A Simple MPEG2-TS Parser.
+A Simple Top Level Box transform
 
 ## Feature
 
-* MPEG2-TS stream into TS Packet chunks
+* top level box to node.js transform
 
 ## Build
 
 ### Preparing
 
 ```bash
-git clone https://github.com/monyone/node-arib-mpeg2ts-parser
-cd node-arib-mpeg2ts-parser
+git clone https://github.com/monyone/node-mp4-box-transform
+cd node-mp4-box-transform
 yarn
 ```
 
-### Compiling aribb24.js library
+### Compiling library
 
 ```bash
 yarn run build
